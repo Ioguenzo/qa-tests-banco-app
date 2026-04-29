@@ -34,3 +34,7 @@ Passos:
 
 Resultado esperado:
 Sistema deve alertar que os campos são obrigatórios
+
+-------========------=====------------------------
+
+Tipo de teste: Funcional / Negativo / Positivo
