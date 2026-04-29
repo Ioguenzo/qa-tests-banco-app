@@ -1,11 +1,2 @@
-# qa-tests-banco-app
-ID: TC001
-Título: Login com dados válidos
-
-Passos:
-1. Inserir usuário válido
-2. Inserir senha válida
-3. Clicar em login
-
-Resultado esperado:
-Usuário deve acessar o sistema com sucesso
+Projeto QA simulando testes manuais
+com criação de casos de teste e bug report.
